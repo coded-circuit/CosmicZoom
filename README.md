@@ -8,10 +8,6 @@ The **Cosmic Zoom** is a web application designed to allow users to explore NASA
 - **Adaptive Performance**: Only relevant image tiles are loaded, optimising performance for standard devices and web browsers.  
 - **Interactive Video Exploration**: Optionally view time-lapse or sequential imagery for Earth or planetary surfaces.
 
-## Potential Use Cases
-- **Public Engagement**: Museums or educational platforms can let visitors explore the imagery interactively.  
-- **Research**: Scientists can analyse changes over time, or annotate features for study.  
-
 ## Technologies
 - Frontend: HTML, CSS, JavaScript
 - Image Handling: Tile-based streaming, multi-resolution pyramids  
