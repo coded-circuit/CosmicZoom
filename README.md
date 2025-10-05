@@ -11,4 +11,13 @@ The **Cosmic Zoom** is a web application designed to allow users to explore NASA
 ## Technologies
 - Frontend: HTML, CSS, JavaScript
 - Image Handling: Tile-based streaming, multi-resolution pyramids  
-- Backend: Node.js server for serving image tiles and datasets  
+- Backend: Node.js server for serving image tiles and datasets
+
+  ## Getting Started
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/yourusername/nasa-image-explorer.git
+2. Start the backend server (Terminal 1):
+   cd server python main.py
+3. Start the frontend website
+   cd website npm start      
