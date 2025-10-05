@@ -1,5 +1,4 @@
-# NASA Massive Image Explorer
-
+# Cosmic Zoom
 ## Overview
 The **Cosmic Zoom** is a web-based platform designed to allow users to seamlessly explore NASA’s high-resolution image datasets, ranging from gigapixel to terapixel scale. The app enables interactive zooming and panning, labeling of known features, and discovery of new patterns in Earth, lunar, and space imagery. By providing an intuitive interface and adaptive image streaming, the platform makes vast space datasets accessible to researchers, educators, and the general public.
 
